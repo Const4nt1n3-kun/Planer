@@ -35,7 +35,7 @@ struct DashboardView: View {
                         title: "Сегодня",
                         tasks: tasks,
                         onViewAllTapped: {
-                            createFirestoreStructure(userId: "aTiuCdJx8TM7beqDf9gEYH7FXnI3", name: "Andrew", email: "")
+                            createFirestoreStructure(userId: "aTiuCdJx8TM7beqDf9gEYH7FXnI3", name: "Константин", email: "")
                         }
                     )
                 }.padding()
