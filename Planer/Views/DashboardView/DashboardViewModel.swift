@@ -1,10 +1,3 @@
-//
-//  DashboardViewModel.swift
-//  Planer
-//
-//  Created by Андрей Сорокин on 10.05.2025.
-//
-
 import Foundation
 import Combine
 
