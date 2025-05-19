@@ -1,10 +1,3 @@
-//
-//  NotificationSettingsView.swift
-//  Planer
-//
-//  Created by Андрей Сорокин on 18.05.2025.
-//
-
 import SwiftUI
 
 struct NotificationSettingsView: View {
